@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-```bash
+```
 $ whoami
 > Kelvin Charles Chacha — Dev. Chacha
 > Full Stack Developer & Jr. System Architect
@@ -70,22 +70,22 @@ $ bio
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  LANGUAGES                                                   ║
-║  Python · Java · JavaScript · PHP                            ║
+║  ▸ Python  ▸ Java  ▸ JavaScript  ▸ PHP                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  BACKEND                                                     ║
-║  Django REST · Spring Boot · Laravel · FastAPI               ║
+║  ▸ Django REST  ▸ Spring Boot  ▸ Laravel  ▸ FastAPI           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  FRONTEND & MOBILE                                           ║
-║  React · React Native · Tailwind CSS                         ║
+║  ▸ React  ▸ React Native  ▸ Tailwind CSS                     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  DATABASE                                                    ║
-║  PostgreSQL · MySQL                                          ║
+║  ▸ PostgreSQL  ▸ MySQL                                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  DEVOPS & CLOUD                                              ║
-║  Docker · GitHub Actions · Railway · Cloudinary              ║
+║  ▸ Docker  ▸ GitHub Actions  ▸ Railway  ▸ Cloudinary         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  AI & PAYMENTS                                               ║
-║  Groq AI · LangChain · ClickPesa · Beem Africa               ║
+║  ▸ Groq AI  ▸ LangChain  ▸ ClickPesa  ▸ Beem Africa          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
