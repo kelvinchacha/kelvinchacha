@@ -1,3 +1,48 @@
+<!-- DEV. CHACHA — GitHub Profile README -->
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                            ▓
+▓  ██████╗ ███████╗██╗   ██╗     ██████╗██╗  ██╗ █████╗     ▓
+▓  ██╔══██╗██╔════╝██║   ██║    ██╔════╝██║  ██║██╔══██╗    ▓
+▓  ██║  ██║█████╗  ██║   ██║    ██║     ███████║███████║    ▓
+▓  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║     ██╔══██║██╔══██║    ▓
+▓  ██████╔╝███████╗ ╚████╔╝     ╚██████╗██║  ██║██║  ██║    ▓
+▓  ╚═════╝ ╚══════╝  ╚═══╝       ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ▓
+▓                                                            ▓
+▓           [ SYSTEM ARCHITECT IN PROGRESS ]                 ▓
+▓           > "Shatrap, am talk."_                           ▓
+▓                                                            ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Dodoma%2C+Tanzania+%F0%9F%87%B9%F0%9F%87%BF;Building+Systems+That+Drive+Business;Django+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+React+Native;Founder+%40+aXeraf+Technologies" alt="Typing SVG" />
+
+</div>
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+```bash
+$ whoami
+> Kelvin Charles Chacha — Dev. Chacha
+> Full Stack Developer & Jr. System Architect
+> Founder @ aXeraf Technologies
+> Dodoma, Tanzania 🇹🇿 | UDOM — BIS
+
+$ bio
+> I design and develop complete web and mobile systems
+> for enterprises, NGOs, startups and government entities.
+> From database architecture to user interface — I build what works.
+> My goal: become a System Architect by 2030,
+> building infrastructure that powers real growth for African enterprises.
+```
+
 </div>
 
 <br>
@@ -16,14 +61,27 @@
 
 <div align="center">
 
-| Service | Description |
-|---|---|
-| 🌐 **Web Applications** | Full stack SaaS, management portals & dashboards |
-| 📱 **Mobile Apps** | Cross-platform React Native apps for Android & iOS |
-| 🔌 **APIs & Backends** | RESTful APIs, auth, role-based access, integrations |
-| 🏢 **Business Systems** | Custom ERP, POS, inventory, HR & management systems |
-| 🗄️ **Database Design** | PostgreSQL & MySQL schemas, optimization & reporting |
-| 🧠 **Consulting** | Architecture review, tech stack selection & roadmaps |
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🌐  Web Applications                                        ║
+║      Full stack SaaS, management portals & dashboards        ║
+╠══════════════════════════════════════════════════════════════╣
+║  📱  Mobile Apps                                             ║
+║      Cross-platform React Native apps for Android & iOS      ║
+╠══════════════════════════════════════════════════════════════╣
+║  🔌  APIs & Backends                                         ║
+║      RESTful APIs, auth, role-based access & integrations    ║
+╠══════════════════════════════════════════════════════════════╣
+║  🏢  Business Systems                                        ║
+║      Custom ERP, POS, inventory, HR & management systems     ║
+╠══════════════════════════════════════════════════════════════╣
+║  🗄️  Database Design                                         ║
+║      PostgreSQL & MySQL schemas, optimization & reporting     ║
+╠══════════════════════════════════════════════════════════════╣
+║  🧠  Consulting                                              ║
+║      Architecture review, tech stack selection & roadmaps    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -95,18 +153,22 @@
 
 ---
 
-<h2 align="center">🌍 Let's Connect</h2>
+<h2 align="center">📬 Contact</h2>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00ff41)](https://kelvinchacha.github.io/my-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kelvin-chacha)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/255XXXXXXXXX)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-
-<br>
-
-![Open For Work](https://img.shields.io/badge/Open_For-Contracts_%7C_NGO_Systems_%7C_Enterprise_Apps-00ff41?style=for-the-badge)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   LinkedIn  →  linkedin.com/in/kelvin-chacha                 ║
+║   Portfolio →  kelvinchacha.github.io/my-portfolio           ║
+║   Company   →  aXeraf Technologies — Dodoma, Tanzania        ║
+║                                                              ║
+║   Open for  →  Contracts · NGO Systems · Enterprise Apps     ║
+║   Response  →  Within 24 hours                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
